@@ -1,0 +1,12 @@
+defaultPortal: OrangeCrews
+portals:
+  - name: OrangeCrews
+    portalId: 8348004
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CKj89YTRLxICAAUY5ML9AyCet6UGKO7pDDIU0B7DRqO12T3fIaH5jz81hczBTDw6GAAABEEAAAAAAAAAAAAAAAAAAAAAAAAABEIUp7pxLV8khjBflPhIKquUAyLXSGRKA25hMVIAWgA
+        expiresAt: '2021-11-11T20:08:16.689Z'
+    personalAccessKey: >-
+      CiQxZGM3NTI1MC1lNDcxLTQ4NWUtYjBiMy0wNWU0ZWIyMzIzMDkQ5ML9Axiet6UGKhkABeaRgh4sm6Ib4Q1N6K-R1VIshU6itjOASgNuYTE
